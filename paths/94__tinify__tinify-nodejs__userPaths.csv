@@ -1,0 +1,11 @@
+index,repo,repoType,path,count
+94,tinify/tinify-nodejs,Organization,REPORTER,21
+94,tinify/tinify-nodejs,Organization,COMMENTER,8
+94,tinify/tinify-nodejs,Organization,CHEERLEADER,4
+94,tinify/tinify-nodejs,Organization,CHEERLEADER-COMMENTER,2
+94,tinify/tinify-nodejs,Organization,DEVELOPER-COMMENTER,2
+94,tinify/tinify-nodejs,Organization,REPORTER-CHEERLEADER,2
+94,tinify/tinify-nodejs,Organization,CHEERLEADER-REPORTER-CHEERLEADER-REPORTER,1
+94,tinify/tinify-nodejs,Organization,DEVELOPER-COMMENTER-DEVELOPER-COMMENTER-DEVELOPER,1
+94,tinify/tinify-nodejs,Organization,REPORTER-CHEERLEADER-REPORTER,1
+94,tinify/tinify-nodejs,Organization,COMMENTER-CHEERLEADER-COMMENTER,1

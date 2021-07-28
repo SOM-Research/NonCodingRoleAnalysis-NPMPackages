@@ -1,0 +1,12 @@
+index,repo,repoType,path,count
+65,sindresorhus/electron-reloader,User,CHEERLEADER,7
+65,sindresorhus/electron-reloader,User,COMMENTER,5
+65,sindresorhus/electron-reloader,User,REPORTER,5
+65,sindresorhus/electron-reloader,User,CHEERLEADER-COMMENTER,3
+65,sindresorhus/electron-reloader,User,REPORTER-DEVELOPER,1
+65,sindresorhus/electron-reloader,User,DEVELOPER-MERGER,1
+65,sindresorhus/electron-reloader,User,COMMENTER-DEVELOPER-MERGER,1
+65,sindresorhus/electron-reloader,User,REPORTER-CHEERLEADER,1
+65,sindresorhus/electron-reloader,User,DEVELOPER,1
+65,sindresorhus/electron-reloader,User,DEVELOPER-REPORTER-DEVELOPER-COMMENTER-DEVELOPER,1
+65,sindresorhus/electron-reloader,User,DEVELOPER-REVIEWER,1

@@ -1,0 +1,17 @@
+index,repo,repoType,path,count
+53,75lb/command-line-args,User,REPORTER,55
+53,75lb/command-line-args,User,COMMENTER,13
+53,75lb/command-line-args,User,REPORTER-CHEERLEADER,8
+53,75lb/command-line-args,User,DEVELOPER,7
+53,75lb/command-line-args,User,REPORTER-DEVELOPER,2
+53,75lb/command-line-args,User,CHEERLEADER,2
+53,75lb/command-line-args,User,DEVELOPER-REPORTER-DEVELOPER-REPORTER-DEVELOPER,1
+53,75lb/command-line-args,User,REPORTER-DEVELOPER-MERGER-DEVELOPER,1
+53,75lb/command-line-args,User,DEVELOPER-REPORTER-MERGER-DEVELOPER,1
+53,75lb/command-line-args,User,COMMENTER-CHEERLEADER,1
+53,75lb/command-line-args,User,REPORTER-MERGER-DEVELOPER-MERGER-DEVELOPER,1
+53,75lb/command-line-args,User,DEVELOPER-CHEERLEADER,1
+53,75lb/command-line-args,User,REPORTER-DEVELOPER-REPORTER-DEVELOPER-REPORTER,1
+53,75lb/command-line-args,User,REPORTER-CHEERLEADER-REPORTER-COMMENTER,1
+53,75lb/command-line-args,User,CHEERLEADER-COMMENTER,1
+53,75lb/command-line-args,User,DEVELOPER-MERGER-DEVELOPER,1

@@ -1,0 +1,9 @@
+index,repo,repoType,path,count
+61,sindresorhus/sindresorhus-cli,User,COMMENTER,3
+61,sindresorhus/sindresorhus-cli,User,REPORTER,2
+61,sindresorhus/sindresorhus-cli,User,DEVELOPER,2
+61,sindresorhus/sindresorhus-cli,User,CHEERLEADER,2
+61,sindresorhus/sindresorhus-cli,User,COMMENTER-CHEERLEADER,1
+61,sindresorhus/sindresorhus-cli,User,DEVELOPER-MERGER,1
+61,sindresorhus/sindresorhus-cli,User,REPORTER-CHEERLEADER,1
+61,sindresorhus/sindresorhus-cli,User,DEVELOPER-COMMENTER-DEVELOPER,1

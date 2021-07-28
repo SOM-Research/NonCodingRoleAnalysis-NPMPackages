@@ -1,0 +1,12 @@
+index,repo,repoType,path,count
+19,reactopt/reactopt,Organization,REPORTER,11
+19,reactopt/reactopt,Organization,CHEERLEADER,11
+19,reactopt/reactopt,Organization,DEVELOPER,4
+19,reactopt/reactopt,Organization,COMMENTER-CHEERLEADER,2
+19,reactopt/reactopt,Organization,DEVELOPER-MERGER-DEVELOPER-MERGER-DEVELOPER,2
+19,reactopt/reactopt,Organization,COMMENTER,2
+19,reactopt/reactopt,Organization,REPORTER-CHEERLEADER,1
+19,reactopt/reactopt,Organization,CHEERLEADER-COMMENTER,1
+19,reactopt/reactopt,Organization,DEVELOPER-MERGER-DEVELOPER-MERGER,1
+19,reactopt/reactopt,Organization,DEVELOPER-MERGER-COMMENTER-CHEERLEADER-COMMENTER,1
+19,reactopt/reactopt,Organization,CHEERLEADER-COMMENTER-CHEERLEADER,1

@@ -1,0 +1,11 @@
+index,repo,repoType,path,count
+81,sindresorhus/react-router-util,User,COMMENTER,4
+81,sindresorhus/react-router-util,User,REPORTER,4
+81,sindresorhus/react-router-util,User,DEVELOPER-MERGER,2
+81,sindresorhus/react-router-util,User,DEVELOPER-MERGER-DEVELOPER-MERGER,1
+81,sindresorhus/react-router-util,User,DEVELOPER-CHEERLEADER-REVIEWER-DEVELOPER-REVIEWER,1
+81,sindresorhus/react-router-util,User,DEVELOPER-CHEERLEADER-MERGER,1
+81,sindresorhus/react-router-util,User,REVIEWER-CHEERLEADER-REVIEWER-COMMENTER,1
+81,sindresorhus/react-router-util,User,REVIEWER-COMMENTER,1
+81,sindresorhus/react-router-util,User,DEVELOPER-REPORTER-DEVELOPER-REPORTER-DEVELOPER,1
+81,sindresorhus/react-router-util,User,CHEERLEADER,1

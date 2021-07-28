@@ -1,0 +1,10 @@
+index,repo,repoType,path,count
+49,nikhilk/node-tensorflow,User,CHEERLEADER,17
+49,nikhilk/node-tensorflow,User,REPORTER,12
+49,nikhilk/node-tensorflow,User,COMMENTER,12
+49,nikhilk/node-tensorflow,User,DEVELOPER,6
+49,nikhilk/node-tensorflow,User,CHEERLEADER-REPORTER-CHEERLEADER-REPORTER,1
+49,nikhilk/node-tensorflow,User,CHEERLEADER-COMMENTER-CHEERLEADER-COMMENTER,1
+49,nikhilk/node-tensorflow,User,DEVELOPER-COMMENTER-DEVELOPER-COMMENTER-DEVELOPER,1
+49,nikhilk/node-tensorflow,User,CHEERLEADER-COMMENTER,1
+49,nikhilk/node-tensorflow,User,REPORTER-CHEERLEADER-COMMENTER-REPORTER-CHEERLEADER,1

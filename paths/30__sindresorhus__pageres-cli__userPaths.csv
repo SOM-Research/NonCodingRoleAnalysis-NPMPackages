@@ -1,0 +1,6 @@
+index,repo,repoType,path,count
+30,sindresorhus/pageres-cli,User,DEVELOPER,13
+30,sindresorhus/pageres-cli,User,DEVELOPER-MERGER,1
+30,sindresorhus/pageres-cli,User,DEVELOPER-REVIEWER-MERGER,1
+30,sindresorhus/pageres-cli,User,DEVELOPER-MERGER-DEVELOPER,1
+30,sindresorhus/pageres-cli,User,DEVELOPER-COMMENTER-DEVELOPER-COMMENTER-DEVELOPER,1

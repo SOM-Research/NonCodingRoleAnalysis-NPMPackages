@@ -1,0 +1,17 @@
+index,repo,repoType,path,count
+41,sindresorhus/terminal-image,User,REPORTER,8
+41,sindresorhus/terminal-image,User,CHEERLEADER,6
+41,sindresorhus/terminal-image,User,COMMENTER,4
+41,sindresorhus/terminal-image,User,DEVELOPER-MERGER,2
+41,sindresorhus/terminal-image,User,DEVELOPER,2
+41,sindresorhus/terminal-image,User,COMMENTER-CHEERLEADER,2
+41,sindresorhus/terminal-image,User,DEVELOPER-CHEERLEADER-DEVELOPER-REVIEWER-DEVELOPER,1
+41,sindresorhus/terminal-image,User,CHEERLEADER-COMMENTER-CHEERLEADER,1
+41,sindresorhus/terminal-image,User,CHEERLEADER-REPORTER-CHEERLEADER,1
+41,sindresorhus/terminal-image,User,COMMENTER-DEVELOPER-COMMENTER-DEVELOPER-MERGER,1
+41,sindresorhus/terminal-image,User,REPORTER-CHEERLEADER,1
+41,sindresorhus/terminal-image,User,COMMENTER-DEVELOPER-COMMENTER-REVIEWER-COMMENTER,1
+41,sindresorhus/terminal-image,User,REPORTER-CHEERLEADER-DEVELOPER-REVIEWER,1
+41,sindresorhus/terminal-image,User,COMMENTER-REPORTER-COMMENTER-REVIEWER-REPORTER,1
+41,sindresorhus/terminal-image,User,DEVELOPER-REPORTER-COMMENTER-DEVELOPER-COMMENTER,1
+41,sindresorhus/terminal-image,User,REPORTER-COMMENTER-CHEERLEADER,1

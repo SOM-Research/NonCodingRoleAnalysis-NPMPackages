@@ -1,0 +1,12 @@
+index,repo,repoType,path,count
+77,sindresorhus/terminal-link,User,COMMENTER,3
+77,sindresorhus/terminal-link,User,DEVELOPER-MERGER,2
+77,sindresorhus/terminal-link,User,REPORTER,2
+77,sindresorhus/terminal-link,User,COMMENTER-REVIEWER-COMMENTER-DEVELOPER-MERGER,1
+77,sindresorhus/terminal-link,User,DEVELOPER,1
+77,sindresorhus/terminal-link,User,DEVELOPER-MERGER-DEVELOPER-MERGER,1
+77,sindresorhus/terminal-link,User,REPORTER-CHEERLEADER,1
+77,sindresorhus/terminal-link,User,REPORTER-DEVELOPER-REVIEWER-DEVELOPER-MERGER,1
+77,sindresorhus/terminal-link,User,CHEERLEADER-COMMENTER,1
+77,sindresorhus/terminal-link,User,DEVELOPER-COMMENTER-DEVELOPER-REPORTER-COMMENTER,1
+77,sindresorhus/terminal-link,User,DEVELOPER-REVIEWER-DEVELOPER-CHEERLEADER-DEVELOPER,1

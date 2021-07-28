@@ -1,0 +1,11 @@
+index,repo,repoType,path,count
+76,sindresorhus/electron-timber,User,CHEERLEADER,3
+76,sindresorhus/electron-timber,User,REPORTER-CHEERLEADER-REPORTER,2
+76,sindresorhus/electron-timber,User,COMMENTER,2
+76,sindresorhus/electron-timber,User,REPORTER,2
+76,sindresorhus/electron-timber,User,DEVELOPER-CHEERLEADER-REVIEWER-DEVELOPER-CHEERLEADER,1
+76,sindresorhus/electron-timber,User,DEVELOPER-MERGER-COMMENTER-DEVELOPER-COMMENTER,1
+76,sindresorhus/electron-timber,User,REPORTER-CHEERLEADER-REVIEWER-CHEERLEADER-COMMENTER,1
+76,sindresorhus/electron-timber,User,DEVELOPER-REVIEWER-DEVELOPER-MERGER-DEVELOPER,1
+76,sindresorhus/electron-timber,User,CHEERLEADER-REVIEWER,1
+76,sindresorhus/electron-timber,User,CHEERLEADER-REPORTER,1

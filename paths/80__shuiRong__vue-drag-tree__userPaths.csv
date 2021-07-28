@@ -1,0 +1,11 @@
+index,repo,repoType,path,count
+80,shuiRong/vue-drag-tree,User,REPORTER,15
+80,shuiRong/vue-drag-tree,User,DEVELOPER,5
+80,shuiRong/vue-drag-tree,User,CHEERLEADER,4
+80,shuiRong/vue-drag-tree,User,REPORTER-DEVELOPER,2
+80,shuiRong/vue-drag-tree,User,COMMENTER,2
+80,shuiRong/vue-drag-tree,User,COMMENTER-REPORTER,1
+80,shuiRong/vue-drag-tree,User,DEVELOPER-MERGER-DEVELOPER-REPORTER,1
+80,shuiRong/vue-drag-tree,User,DEVELOPER-CHEERLEADER,1
+80,shuiRong/vue-drag-tree,User,CHEERLEADER-COMMENTER-REPORTER,1
+80,shuiRong/vue-drag-tree,User,DEVELOPER-REPORTER-DEVELOPER-REPORTER-DEVELOPER,1

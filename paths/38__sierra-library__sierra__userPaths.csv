@@ -1,0 +1,16 @@
+index,repo,repoType,path,count
+38,sierra-library/sierra,Organization,REPORTER,21
+38,sierra-library/sierra,Organization,CHEERLEADER,10
+38,sierra-library/sierra,Organization,COMMENTER,6
+38,sierra-library/sierra,Organization,REPORTER-DEVELOPER,3
+38,sierra-library/sierra,Organization,DEVELOPER,2
+38,sierra-library/sierra,Organization,REPORTER-CHEERLEADER,2
+38,sierra-library/sierra,Organization,DEVELOPER-MERGER,2
+38,sierra-library/sierra,Organization,REPORTER-DEVELOPER-REPORTER,2
+38,sierra-library/sierra,Organization,COMMENTER-DEVELOPER-COMMENTER-DEVELOPER-COMMENTER,1
+38,sierra-library/sierra,Organization,CHEERLEADER-REPORTER-COMMENTER-REPORTER-CHEERLEADER,1
+38,sierra-library/sierra,Organization,COMMENTER-CHEERLEADER-REVIEWER-COMMENTER-REVIEWER,1
+38,sierra-library/sierra,Organization,COMMENTER-CHEERLEADER,1
+38,sierra-library/sierra,Organization,DEVELOPER-REPORTER-DEVELOPER-COMMENTER-DEVELOPER,1
+38,sierra-library/sierra,Organization,DEVELOPER-COMMENTER,1
+38,sierra-library/sierra,Organization,COMMENTER-REPORTER-COMMENTER,1

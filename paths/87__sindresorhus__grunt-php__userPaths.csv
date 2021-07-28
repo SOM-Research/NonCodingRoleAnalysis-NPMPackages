@@ -1,0 +1,16 @@
+index,repo,repoType,path,count
+87,sindresorhus/grunt-php,User,REPORTER,38
+87,sindresorhus/grunt-php,User,COMMENTER,28
+87,sindresorhus/grunt-php,User,DEVELOPER,10
+87,sindresorhus/grunt-php,User,DEVELOPER-COMMENTER-DEVELOPER,2
+87,sindresorhus/grunt-php,User,REPORTER-DEVELOPER,2
+87,sindresorhus/grunt-php,User,COMMENTER-REPORTER-COMMENTER,1
+87,sindresorhus/grunt-php,User,COMMENTER-REPORTER,1
+87,sindresorhus/grunt-php,User,REPORTER-DEVELOPER-MERGER-DEVELOPER-MERGER,1
+87,sindresorhus/grunt-php,User,REPORTER-COMMENTER-CHEERLEADER,1
+87,sindresorhus/grunt-php,User,REPORTER-DEVELOPER-REPORTER-DEVELOPER-REPORTER,1
+87,sindresorhus/grunt-php,User,REPORTER-COMMENTER,1
+87,sindresorhus/grunt-php,User,COMMENTER-DEVELOPER-COMMENTER-DEVELOPER-MERGER,1
+87,sindresorhus/grunt-php,User,COMMENTER-DEVELOPER,1
+87,sindresorhus/grunt-php,User,COMMENTER-DEVELOPER-MERGER-COMMENTER,1
+87,sindresorhus/grunt-php,User,DEVELOPER-COMMENTER-REPORTER-DEVELOPER-REPORTER,1

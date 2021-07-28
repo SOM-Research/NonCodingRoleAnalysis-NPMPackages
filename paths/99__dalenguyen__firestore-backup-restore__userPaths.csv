@@ -1,0 +1,17 @@
+index,repo,repoType,path,count
+99,dalenguyen/firestore-backup-restore,User,REPORTER,24
+99,dalenguyen/firestore-backup-restore,User,CHEERLEADER,12
+99,dalenguyen/firestore-backup-restore,User,COMMENTER,8
+99,dalenguyen/firestore-backup-restore,User,DEVELOPER,7
+99,dalenguyen/firestore-backup-restore,User,REPORTER-CHEERLEADER,4
+99,dalenguyen/firestore-backup-restore,User,CHEERLEADER-COMMENTER,2
+99,dalenguyen/firestore-backup-restore,User,COMMENTER-REPORTER,1
+99,dalenguyen/firestore-backup-restore,User,CHEERLEADER-COMMENTER-CHEERLEADER-REPORTER,1
+99,dalenguyen/firestore-backup-restore,User,REPORTER-DEVELOPER-REPORTER,1
+99,dalenguyen/firestore-backup-restore,User,REPORTER-CHEERLEADER-REPORTER-DEVELOPER-CHEERLEADER,1
+99,dalenguyen/firestore-backup-restore,User,CHEERLEADER-COMMENTER-DEVELOPER,1
+99,dalenguyen/firestore-backup-restore,User,DEVELOPER-COMMENTER-DEVELOPER-COMMENTER-DEVELOPER,1
+99,dalenguyen/firestore-backup-restore,User,CHEERLEADER-DEVELOPER-COMMENTER,1
+99,dalenguyen/firestore-backup-restore,User,DEVELOPER-REPORTER,1
+99,dalenguyen/firestore-backup-restore,User,CHEERLEADER-COMMENTER-REPORTER-DEVELOPER-CHEERLEADER,1
+99,dalenguyen/firestore-backup-restore,User,REPORTER-CHEERLEADER-COMMENTER-DEVELOPER-REPORTER,1

@@ -1,0 +1,14 @@
+index,repo,repoType,path,count
+91,sindresorhus/bitbar,User,COMMENTER,4
+91,sindresorhus/bitbar,User,REPORTER,4
+91,sindresorhus/bitbar,User,CHEERLEADER,3
+91,sindresorhus/bitbar,User,DEVELOPER,1
+91,sindresorhus/bitbar,User,REPORTER-DEVELOPER-MERGER,1
+91,sindresorhus/bitbar,User,DEVELOPER-MERGER-DEVELOPER-CHEERLEADER,1
+91,sindresorhus/bitbar,User,REPORTER-DEVELOPER-REPORTER-DEVELOPER-REPORTER,1
+91,sindresorhus/bitbar,User,DEVELOPER-REPORTER-DEVELOPER,1
+91,sindresorhus/bitbar,User,REPORTER-DEVELOPER-REPORTER-DEVELOPER-REVIEWER,1
+91,sindresorhus/bitbar,User,REPORTER-DEVELOPER-REPORTER-DEVELOPER-MERGER,1
+91,sindresorhus/bitbar,User,DEVELOPER-MERGER,1
+91,sindresorhus/bitbar,User,DEVELOPER-COMMENTER-DEVELOPER-COMMENTER-REPORTER,1
+91,sindresorhus/bitbar,User,DEVELOPER-REVIEWER-DEVELOPER,1

@@ -1,0 +1,9 @@
+index,repo,repoType,path,count
+64,sindresorhus/negative-array,User,COMMENTER,4
+64,sindresorhus/negative-array,User,DEVELOPER,3
+64,sindresorhus/negative-array,User,REPORTER,3
+64,sindresorhus/negative-array,User,DEVELOPER-MERGER-DEVELOPER,2
+64,sindresorhus/negative-array,User,DEVELOPER-REVIEWER-MERGER,1
+64,sindresorhus/negative-array,User,REPORTER-CHEERLEADER,1
+64,sindresorhus/negative-array,User,DEVELOPER-MERGER,1
+64,sindresorhus/negative-array,User,DEVELOPER-COMMENTER-DEVELOPER-COMMENTER-DEVELOPER,1

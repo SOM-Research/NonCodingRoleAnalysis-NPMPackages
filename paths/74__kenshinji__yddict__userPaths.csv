@@ -1,0 +1,9 @@
+index,repo,repoType,path,count
+74,kenshinji/yddict,User,DEVELOPER,6
+74,kenshinji/yddict,User,COMMENTER,3
+74,kenshinji/yddict,User,REPORTER,3
+74,kenshinji/yddict,User,DEVELOPER-REPORTER,2
+74,kenshinji/yddict,User,DEVELOPER-REPORTER-DEVELOPER-REVIEWER-DEVELOPER,1
+74,kenshinji/yddict,User,REPORTER-CHEERLEADER,1
+74,kenshinji/yddict,User,DEVELOPER-REPORTER-DEVELOPER-REPORTER-DEVELOPER,1
+74,kenshinji/yddict,User,DEVELOPER-REPORTER-DEVELOPER,1

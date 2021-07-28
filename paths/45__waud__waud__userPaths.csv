@@ -1,0 +1,11 @@
+index,repo,repoType,path,count
+45,waud/waud,Organization,REPORTER,16
+45,waud/waud,Organization,COMMENTER,2
+45,waud/waud,Organization,REPORTER-CHEERLEADER-REPORTER-DEVELOPER,1
+45,waud/waud,Organization,REPORTER-COMMENTER,1
+45,waud/waud,Organization,REPORTER-CHEERLEADER-REPORTER,1
+45,waud/waud,Organization,DEVELOPER-REPORTER-DEVELOPER-MERGER-DEVELOPER,1
+45,waud/waud,Organization,DEVELOPER,1
+45,waud/waud,Organization,COMMENTER-DEVELOPER,1
+45,waud/waud,Organization,REPORTER-CHEERLEADER,1
+45,waud/waud,Organization,CHEERLEADER,1

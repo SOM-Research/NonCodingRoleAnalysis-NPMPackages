@@ -1,0 +1,11 @@
+index,repo,repoType,path,count
+44,sindresorhus/react-extras,User,CHEERLEADER,7
+44,sindresorhus/react-extras,User,REPORTER,4
+44,sindresorhus/react-extras,User,COMMENTER,3
+44,sindresorhus/react-extras,User,DEVELOPER-MERGER,3
+44,sindresorhus/react-extras,User,REPORTER-DEVELOPER-MERGER-CHEERLEADER,1
+44,sindresorhus/react-extras,User,DEVELOPER,1
+44,sindresorhus/react-extras,User,DEVELOPER-MERGER-REVIEWER-DEVELOPER,1
+44,sindresorhus/react-extras,User,DEVELOPER-REVIEWER-MERGER,1
+44,sindresorhus/react-extras,User,REPORTER-CHEERLEADER-DEVELOPER-CHEERLEADER-DEVELOPER,1
+44,sindresorhus/react-extras,User,DEVELOPER-COMMENTER-DEVELOPER-COMMENTER-DEVELOPER,1

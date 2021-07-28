@@ -1,0 +1,12 @@
+index,repo,repoType,path,count
+43,sindresorhus/node-module-boilerplate,User,REPORTER,4
+43,sindresorhus/node-module-boilerplate,User,DEVELOPER,4
+43,sindresorhus/node-module-boilerplate,User,REPORTER-DEVELOPER-REVIEWER-DEVELOPER-REVIEWER,1
+43,sindresorhus/node-module-boilerplate,User,DEVELOPER-MERGER-DEVELOPER-REVIEWER-DEVELOPER,1
+43,sindresorhus/node-module-boilerplate,User,DEVELOPER-CHEERLEADER-DEVELOPER,1
+43,sindresorhus/node-module-boilerplate,User,COMMENTER-DEVELOPER-MERGER-DEVELOPER-COMMENTER,1
+43,sindresorhus/node-module-boilerplate,User,DEVELOPER-MERGER,1
+43,sindresorhus/node-module-boilerplate,User,DEVELOPER-COMMENTER-DEVELOPER-MERGER,1
+43,sindresorhus/node-module-boilerplate,User,COMMENTER-CHEERLEADER-REVIEWER,1
+43,sindresorhus/node-module-boilerplate,User,DEVELOPER-REPORTER-DEVELOPER-COMMENTER-REPORTER,1
+43,sindresorhus/node-module-boilerplate,User,DEVELOPER-CHEERLEADER,1

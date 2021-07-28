@@ -1,0 +1,16 @@
+index,repo,repoType,path,count
+55,sindresorhus/strip-json-comments,User,REPORTER,13
+55,sindresorhus/strip-json-comments,User,DEVELOPER,9
+55,sindresorhus/strip-json-comments,User,COMMENTER,5
+55,sindresorhus/strip-json-comments,User,DEVELOPER-MERGER,3
+55,sindresorhus/strip-json-comments,User,DEVELOPER-MERGER-REVIEWER,1
+55,sindresorhus/strip-json-comments,User,COMMENTER-REVIEWER,1
+55,sindresorhus/strip-json-comments,User,REPORTER-DEVELOPER-MERGER-DEVELOPER-COMMENTER,1
+55,sindresorhus/strip-json-comments,User,REPORTER-CHEERLEADER-REPORTER,1
+55,sindresorhus/strip-json-comments,User,DEVELOPER-COMMENTER-REVIEWER,1
+55,sindresorhus/strip-json-comments,User,REPORTER-DEVELOPER-REPORTER,1
+55,sindresorhus/strip-json-comments,User,DEVELOPER-REPORTER-DEVELOPER-REPORTER-DEVELOPER,1
+55,sindresorhus/strip-json-comments,User,DEVELOPER-REPORTER-DEVELOPER-COMMENTER-REPORTER,1
+55,sindresorhus/strip-json-comments,User,COMMENTER-DEVELOPER-MERGER,1
+55,sindresorhus/strip-json-comments,User,DEVELOPER-MERGER-DEVELOPER,1
+55,sindresorhus/strip-json-comments,User,CHEERLEADER,1

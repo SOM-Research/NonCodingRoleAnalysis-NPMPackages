@@ -1,0 +1,13 @@
+index,repo,repoType,path,count
+92,sindresorhus/electron-serve,User,REPORTER,9
+92,sindresorhus/electron-serve,User,COMMENTER,8
+92,sindresorhus/electron-serve,User,CHEERLEADER,2
+92,sindresorhus/electron-serve,User,DEVELOPER-MERGER-CHEERLEADER,1
+92,sindresorhus/electron-serve,User,DEVELOPER-CHEERLEADER-DEVELOPER-MERGER-CHEERLEADER,1
+92,sindresorhus/electron-serve,User,REPORTER-DEVELOPER,1
+92,sindresorhus/electron-serve,User,COMMENTER-CHEERLEADER,1
+92,sindresorhus/electron-serve,User,DEVELOPER-REVIEWER-MERGER-CHEERLEADER-COMMENTER,1
+92,sindresorhus/electron-serve,User,CHEERLEADER-COMMENTER-DEVELOPER-MERGER,1
+92,sindresorhus/electron-serve,User,DEVELOPER-MERGER,1
+92,sindresorhus/electron-serve,User,REPORTER-CHEERLEADER,1
+92,sindresorhus/electron-serve,User,DEVELOPER-COMMENTER-REPORTER-COMMENTER-DEVELOPER,1

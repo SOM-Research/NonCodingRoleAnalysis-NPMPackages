@@ -1,0 +1,14 @@
+index,repo,repoType,path,count
+52,sindresorhus/capture-website-cli,User,REPORTER,7
+52,sindresorhus/capture-website-cli,User,COMMENTER,3
+52,sindresorhus/capture-website-cli,User,DEVELOPER-MERGER,3
+52,sindresorhus/capture-website-cli,User,REPORTER-CHEERLEADER-REPORTER,3
+52,sindresorhus/capture-website-cli,User,DEVELOPER,2
+52,sindresorhus/capture-website-cli,User,REPORTER-CHEERLEADER,1
+52,sindresorhus/capture-website-cli,User,DEVELOPER-REVIEWER,1
+52,sindresorhus/capture-website-cli,User,REPORTER-DEVELOPER-REPORTER-DEVELOPER-REVIEWER,1
+52,sindresorhus/capture-website-cli,User,DEVELOPER-MERGER-DEVELOPER-MERGER-DEVELOPER,1
+52,sindresorhus/capture-website-cli,User,CHEERLEADER-COMMENTER,1
+52,sindresorhus/capture-website-cli,User,DEVELOPER-COMMENTER-DEVELOPER-REVIEWER-DEVELOPER,1
+52,sindresorhus/capture-website-cli,User,DEVELOPER-CHEERLEADER-DEVELOPER-REVIEWER-MERGER,1
+52,sindresorhus/capture-website-cli,User,CHEERLEADER,1
