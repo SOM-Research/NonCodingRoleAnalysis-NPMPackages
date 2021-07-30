@@ -53,9 +53,9 @@ GML and PNG files include the graphical representation of the graphs. Nodes have
 | Orange | Review      |
 
 ### ```paths``` folder 
-This folder contains the role evolution paths for each repository. They are used to generate the Sankey diagrams. 
+This folder contains the role migration paths for each repository. They are used to generate the Sankey diagrams. 
 
 For each repository, you will find a CSV file with the following columns:
 * Repository identification: ```index```, ```repo```, ```repoType```, which indicate the index, name, type (i.e., Organization or User/Individual) of the repository, respectively.  
-* Role evolution path analysis: ```path```, which indicates the role evolution path found in the repository, and ```count```, which counts the number of times such a path has been found.
+* Role migration path analysis: ```path```, which indicates the role migration path found in the repository, and ```count```, which counts the number of times such a path has been found.
 
