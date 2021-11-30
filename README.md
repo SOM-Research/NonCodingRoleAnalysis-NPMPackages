@@ -1,6 +1,10 @@
 # NonCodingRoleAnalysis-NPMPackages
 
-This repository is the data companion package of the paper _On the Analysis of Non-Coding Roles in Open Source Development. An Empirical Study of NPM Package Projects_
+This repository is the data companion package of the paper
+
+> Javier Luis Cánovas Izquierdo, Jordi Cabot: On the analysis of non-coding roles in open source development. Empir. Softw. Eng. 27(1): 18 (2022)
+
+That, as an Open Access paper, you can download from [here](https://link.springer.com/article/10.1007%2Fs10664-021-10061-x)
 
 ## Selected projects
 We have collected the information for the top **100 top-starred GitHub projects with the topic _npm-package_**. 
